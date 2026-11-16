@@ -1,0 +1,145 @@
+{
+  "skill_count": 10,
+  "files": [
+    {
+      "path": ".opencode/references/combat-audit/JOURNAL_MAP.md",
+      "bytes": 3959,
+      "sha256": "9b03e8493565bf5dd524774ecc86811e89cd89c5904e19e04e1d51e093da44b2"
+    },
+    {
+      "path": ".opencode/references/combat-audit/PROJECT_AUDIT_CONTRACT.md",
+      "bytes": 16375,
+      "sha256": "9fa93af35f1fb731e03597ac64b4e89abd2fa1665e073495206781c0676785dc"
+    },
+    {
+      "path": ".opencode/references/combat-audit/REPORT_SCHEMA.md",
+      "bytes": 1639,
+      "sha256": "d6e58cb48b49c18e499b611a531b2824ddde9407c753c857ca55535e2ceaba43"
+    },
+    {
+      "path": ".opencode/references/combat-audit/RUN_MEMORY_PROTOCOL.md",
+      "bytes": 5826,
+      "sha256": "2d2cf031d7000b62bcf5840971dee460a570d4ee9472ab122d54b9468a82e78a"
+    },
+    {
+      "path": ".opencode/references/combat-audit/RUN_REPORT_TEMPLATE.md",
+      "bytes": 2382,
+      "sha256": "ef9538ac1de000b67efcd8506a445bd64764278cd7817f4e2407c03176c3891a"
+    },
+    {
+      "path": ".opencode/skills/audit-run-memory/README.md",
+      "bytes": 701,
+      "sha256": "2442d366550b2ab3d8f0e8a788e5e96cded0df10ad9f7ba600b868cffcadee14"
+    },
+    {
+      "path": ".opencode/skills/audit-run-memory/SKILL.md",
+      "bytes": 24667,
+      "sha256": "1925792287f2df598df28e9f9f6700b99f94cf0bc20200770309abd833bf3ea5"
+    },
+    {
+      "path": ".opencode/skills/combat-audit-orchestrator/README.md",
+      "bytes": 727,
+      "sha256": "4f0e8a773bbf5c749acb82e80a1ca997efa8cf960ed2a00d4fdda8464047a34f"
+    },
+    {
+      "path": ".opencode/skills/combat-audit-orchestrator/SKILL.md",
+      "bytes": 15565,
+      "sha256": "298dcae4a5bddc595f8f1facfe8fce27b05a3addf932342f6bbb96fbd213528d"
+    },
+    {
+      "path": ".opencode/skills/combat-balance-audit/README.md",
+      "bytes": 441,
+      "sha256": "cedb927917354c69f70729f254d4ab32eebb58649a0cd00c8a3654731f6bdc97"
+    },
+    {
+      "path": ".opencode/skills/combat-balance-audit/SKILL.md",
+      "bytes": 10996,
+      "sha256": "073bb22fd70a2998eadb7e3338794160682212da7f00c9299a1f905443a64662"
+    },
+    {
+      "path": ".opencode/skills/combat-playtest-qa-audit/README.md",
+      "bytes": 455,
+      "sha256": "8077493488588e749ec225c09fa46945781f4f95dec1c7d4bab923106c91e89d"
+    },
+    {
+      "path": ".opencode/skills/combat-playtest-qa-audit/SKILL.md",
+      "bytes": 10483,
+      "sha256": "416f043810289c744bcbd2cddb396d847cf7f2d580a5bf3826ff5a800141a9b6"
+    },
+    {
+      "path": ".opencode/skills/combat-ux-feedback-audit/README.md",
+      "bytes": 482,
+      "sha256": "71d3ff655f5343c1eb682e947a5dbc764f35aaec9f3979180d546aa06802f7ae"
+    },
+    {
+      "path": ".opencode/skills/combat-ux-feedback-audit/SKILL.md",
+      "bytes": 11716,
+      "sha256": "110403a066aeb966fa7cb6eb244ea699f5a299579d9eaaea15ac0835334e7040"
+    },
+    {
+      "path": ".opencode/skills/effect-audit/README.md",
+      "bytes": 533,
+      "sha256": "f906b1fcba0b7a6db2403af82c9a02f00e482b992ac6bdbc2b86e2d76631d66e"
+    },
+    {
+      "path": ".opencode/skills/effect-audit/SKILL.md",
+      "bytes": 45069,
+      "sha256": "cc6ecae2e711d1f6e6403030d95ee071092b5af0482e81cb9f21a4ddabb1f4ce"
+    },
+    {
+      "path": ".opencode/skills/effect-interaction-audit/README.md",
+      "bytes": 485,
+      "sha256": "25e103a86f6ec101aee8d90f369ac14af795894c15195352ceffe5a8d731a7da"
+    },
+    {
+      "path": ".opencode/skills/effect-interaction-audit/SKILL.md",
+      "bytes": 12017,
+      "sha256": "97087e232127f389249033781547f27e4ef5dc1160fdd83d6ed6fc9e0a2ec6ad"
+    },
+    {
+      "path": ".opencode/skills/effect-visual-audit/README.md",
+      "bytes": 2265,
+      "sha256": "220c0084b5ba5382fb3f6e633914790b0a777c45b47323c6e2adde421a3b1b46"
+    },
+    {
+      "path": ".opencode/skills/effect-visual-audit/REPORT_TEMPLATE.md",
+      "bytes": 1772,
+      "sha256": "b88fd958675806d79114032831ffd221a8248a793db1550be546537ab47e4b32"
+    },
+    {
+      "path": ".opencode/skills/effect-visual-audit/SKILL.md",
+      "bytes": 42622,
+      "sha256": "9f5e17ee43f790ade46c8bab88c14e713ced5f51d37e8d28b1b5dc429ecca49b"
+    },
+    {
+      "path": ".opencode/skills/enemy-ai-audit/README.md",
+      "bytes": 457,
+      "sha256": "de85e295cb6c2145bd3f66e00e8025f0416cfbad55bf0c5dacc162ba62cc1297"
+    },
+    {
+      "path": ".opencode/skills/enemy-ai-audit/SKILL.md",
+      "bytes": 12868,
+      "sha256": "e7879ba97cc9f29e76731d5b4278c66000e39ac4f9aeca6f602fcdb3c3a2de96"
+    },
+    {
+      "path": ".opencode/skills/enemy-effect-design-audit/README.md",
+      "bytes": 508,
+      "sha256": "ce1853d2b9e4c3e807d58b977747419b2644870dbfbb9878f027aac7520f6d9b"
+    },
+    {
+      "path": ".opencode/skills/enemy-effect-design-audit/SKILL.md",
+      "bytes": 11058,
+      "sha256": "2bdc4890ee8eea6c891b4c611cab5713dad05d4aa277883e8e48e0b4201ee9e1"
+    },
+    {
+      "path": "README_RU.md",
+      "bytes": 9398,
+      "sha256": "b0ef587246b7083be22921bf353b746b8451cc70868874cb30a0a7541eee787e"
+    },
+    {
+      "path": "SKILL_MATRIX.md",
+      "bytes": 2057,
+      "sha256": "d175fcda1ebb8c9cfca1b8c204a001320118d6058c1ec7f941f11ae8bcc9a320"
+    }
+  ]
+}
